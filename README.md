@@ -71,6 +71,7 @@ docs/
   KIRO_USAGE.md
   KIRO_SESSION_LOG.md
   VIDEO_SCRIPT.md
+  RECORDING_CHECKLIST.md
 ```
 
 `.kiro` is **not** gitignored (Kiroween requirement).
